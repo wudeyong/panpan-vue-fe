@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "PingFang SC";
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: "PingFang SC", -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+}
