@@ -1,10 +1,12 @@
 <script setup lang="tsx">
 
-
+import HelloComp from "./components/HelloComp.vue";
 </script>
 
 <template>
-  <div>这是个demo</div>
+  <div>
+    <HelloComp />
+  </div>
 </template>
 
 <style scoped>
